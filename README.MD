@@ -90,6 +90,6 @@ $ npm run allure-report
 <img width="1427" alt="Screen Shot 2020-07-18 at 09 26 45" src="https://user-images.githubusercontent.com/39902589/87842835-c9f5a980-c8d9-11ea-9b9f-d6543520f9e0.png">
 
 * Behaviors
-<img width="1437" alt="Screen Shot 2020-07-18 at 09 27 18" src="https://user-images.githubusercontent.com/39902589/87842840-d4b03e80-c8d9-11ea-820f-57c7eae1a52f.png">
+<img width="1436" alt="Screen Shot 2020-07-18 at 09 36 35" src="https://user-images.githubusercontent.com/39902589/87842896-3ffa1080-c8da-11ea-853b-e7a2f2dcafa7.png">
 
 
