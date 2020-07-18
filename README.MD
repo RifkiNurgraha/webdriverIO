@@ -68,3 +68,28 @@ $ npm run test-api
 ```
 $ npm run allure-report
 ```
+
+# Report
+* Mochawesome for API
+<img width="1434" alt="Screen Shot 2020-07-18 at 09 24 41" src="https://user-images.githubusercontent.com/39902589/87842777-65d2e580-c8d9-11ea-9521-0995582d6ada.png">
+
+* Cucumber Report for UI
+<img width="1315" alt="Screen Shot 2020-07-18 at 09 23 46" src="https://user-images.githubusercontent.com/39902589/87842785-73886b00-c8d9-11ea-9ed1-7a4ba24aad80.png">
+
+# Dashboard Allure
+* Overview
+<img width="1435" alt="Screen Shot 2020-07-18 at 09 26 15" src="https://user-images.githubusercontent.com/39902589/87842806-96b31a80-c8d9-11ea-9d28-eab6198ce6c5.png">
+
+* Graphs
+<img width="1436" alt="Screen Shot 2020-07-18 at 09 26 34" src="https://user-images.githubusercontent.com/39902589/87842815-acc0db00-c8d9-11ea-8d68-5d8e5d8aafea.png">
+
+* Graphs
+<img width="1436" alt="Screen Shot 2020-07-18 at 09 26 34" src="https://user-images.githubusercontent.com/39902589/87842815-acc0db00-c8d9-11ea-8d68-5d8e5d8aafea.png">
+
+* Timeline
+<img width="1427" alt="Screen Shot 2020-07-18 at 09 26 45" src="https://user-images.githubusercontent.com/39902589/87842835-c9f5a980-c8d9-11ea-9b9f-d6543520f9e0.png">
+
+* Behaviors
+<img width="1437" alt="Screen Shot 2020-07-18 at 09 27 18" src="https://user-images.githubusercontent.com/39902589/87842840-d4b03e80-c8d9-11ea-820f-57c7eae1a52f.png">
+
+
