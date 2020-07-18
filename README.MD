@@ -83,9 +83,6 @@ $ npm run allure-report
 * Graphs
 <img width="1436" alt="Screen Shot 2020-07-18 at 09 26 34" src="https://user-images.githubusercontent.com/39902589/87842815-acc0db00-c8d9-11ea-8d68-5d8e5d8aafea.png">
 
-* Graphs
-<img width="1436" alt="Screen Shot 2020-07-18 at 09 26 34" src="https://user-images.githubusercontent.com/39902589/87842815-acc0db00-c8d9-11ea-8d68-5d8e5d8aafea.png">
-
 * Timeline
 <img width="1427" alt="Screen Shot 2020-07-18 at 09 26 45" src="https://user-images.githubusercontent.com/39902589/87842835-c9f5a980-c8d9-11ea-9b9f-d6543520f9e0.png">
 
