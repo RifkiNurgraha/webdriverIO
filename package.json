@@ -19,7 +19,7 @@
 		"test-stag-desktop-opera": "rm -rf reports/cucumber-report/* && node_modules/.bin/wdio integration/main/config/suite.desktop-opera.conf.js --baseUrl=http://staging.bukalapak.com && npm run cucumber-report",
 		"test-stag-desktop-all-browser": "concurrently \"npm run test-stag-desktop-chrome\" \"npm run test-stag-desktop-firefox\" \"npm run test-stag-desktop-safari\" \"npm run test-stag-desktop-opera\"",
 		"test-android": "rm -rf reports/cucumber-report/* && node node_modules/.bin/wdio integration/main/config/suite.android.conf.js && npm run cucumber-report",
-		"test-api-mocha": "mocha integration/test/api/ --reporter mochawesome --reporter-options 'inline=true,reportDir=reports/mochawesome,reportFilename=report,autoOpen=false'",
+		"test-api-mocha": "mocha integration/test/api/ --reporter mochawesome --reporter-options 'inline=true,reportDir=reports/mochawesome,reportFilename=report,autoOpen=true'",
 		"test-api-allure": "mocha --file integration/main/helper/hooks-mocha.js integration/test/api/ --reporter mocha-allure-reporter --reporter-options 'targetDir=reports/allure-results'",
 		"test-parallel-api-mocha": "mocha-parallel-tests integration/test/api/ --max-parallel 4 --timeout 30000 --reporter mochawesome --reporter-options 'inline=true,showPassed=true,showFailed=true,showPending=true,charts=true,autoOpen=true,reportDir=reports/mochawesome,reportFilename=report'"
 	},

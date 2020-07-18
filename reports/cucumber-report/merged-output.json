@@ -45,7 +45,7 @@
             }
           },
           {
-            "name": "@ID-04",
+            "name": "@ID-02",
             "location": {
               "line": 3,
               "column": 30
@@ -67,7 +67,7 @@
             "name": "Hook",
             "result": {
               "status": "passed",
-              "duration": 13000000
+              "duration": 17000000
             },
             "line": "",
             "match": {
@@ -80,7 +80,7 @@
             "name": "user at login page",
             "result": {
               "status": "passed",
-              "duration": 651000000
+              "duration": 382000000
             },
             "line": 5,
             "match": {
@@ -93,7 +93,7 @@
             "name": "User fill \"email\" \"rifki.nurgraha171\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1232000000
+              "duration": 1239000000
             },
             "line": 6,
             "match": {
@@ -106,7 +106,7 @@
             "name": "User fill \"password\" \"tokopedia789\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1658000000
+              "duration": 1669000000
             },
             "line": 7,
             "match": {
@@ -119,7 +119,7 @@
             "name": "User click \"login\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1295000000
+              "duration": 1304000000
             },
             "line": 8,
             "match": {
@@ -132,7 +132,7 @@
             "name": "user see \"warning email message\" at login page",
             "result": {
               "status": "passed",
-              "duration": 54000000
+              "duration": 78000000
             },
             "line": 9,
             "match": {
@@ -145,7 +145,7 @@
             "name": "Hook",
             "result": {
               "status": "passed",
-              "duration": 11000000
+              "duration": 10000000
             },
             "line": "",
             "match": {
@@ -203,7 +203,7 @@
             "name": "Hook",
             "result": {
               "status": "passed",
-              "duration": 11000000
+              "duration": 10000000
             },
             "line": "",
             "match": {
@@ -216,7 +216,7 @@
             "name": "user at login page",
             "result": {
               "status": "passed",
-              "duration": 62000000
+              "duration": 65000000
             },
             "line": 13,
             "match": {
@@ -229,7 +229,7 @@
             "name": "User fill \"email\" \"\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1199000000
+              "duration": 1231000000
             },
             "line": 14,
             "match": {
@@ -242,7 +242,7 @@
             "name": "User fill \"password\" \"tokopedia789\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1652000000
+              "duration": 1648000000
             },
             "line": 15,
             "match": {
@@ -255,7 +255,7 @@
             "name": "User click \"login\" at login page",
             "result": {
               "status": "passed",
-              "duration": 3675000000
+              "duration": 3704000000
             },
             "line": 16,
             "match": {
@@ -268,7 +268,7 @@
             "name": "user see \"warning email message\" at login page",
             "result": {
               "status": "passed",
-              "duration": 51000000
+              "duration": 85000000
             },
             "line": 17,
             "match": {
@@ -281,7 +281,7 @@
             "name": "Hook",
             "result": {
               "status": "passed",
-              "duration": 11000000
+              "duration": 12000000
             },
             "line": "",
             "match": {
@@ -352,7 +352,7 @@
             "name": "user at login page",
             "result": {
               "status": "passed",
-              "duration": 49000000
+              "duration": 62000000
             },
             "line": 21,
             "match": {
@@ -365,7 +365,7 @@
             "name": "User fill \"email\" \"rifki.nurgraha171@gmail.com\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1198000000
+              "duration": 1225000000
             },
             "line": 22,
             "match": {
@@ -378,7 +378,7 @@
             "name": "User fill \"password\" \"\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1641000000
+              "duration": 1665000000
             },
             "line": 23,
             "match": {
@@ -391,7 +391,7 @@
             "name": "User click \"login\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1277000000
+              "duration": 1262000000
             },
             "line": 24,
             "match": {
@@ -404,7 +404,7 @@
             "name": "user see \"warning email message\" at login page",
             "result": {
               "status": "passed",
-              "duration": 48000000
+              "duration": 53000000
             },
             "line": 25,
             "match": {
@@ -417,7 +417,7 @@
             "name": "Hook",
             "result": {
               "status": "passed",
-              "duration": 12000000
+              "duration": 10000000
             },
             "line": "",
             "match": {
@@ -453,7 +453,7 @@
             }
           },
           {
-            "name": "@ID",
+            "name": "@ID-06",
             "location": {
               "line": 27,
               "column": 30
@@ -463,7 +463,7 @@
             "name": "@neg",
             "location": {
               "line": 27,
-              "column": 34
+              "column": 37
             }
           }
         ],
@@ -475,7 +475,7 @@
             "name": "Hook",
             "result": {
               "status": "passed",
-              "duration": 13000000
+              "duration": 11000000
             },
             "line": "",
             "match": {
@@ -488,7 +488,7 @@
             "name": "user at login page",
             "result": {
               "status": "passed",
-              "duration": 47000000
+              "duration": 54000000
             },
             "line": 29,
             "match": {
@@ -501,7 +501,7 @@
             "name": "User fill \"email\" \"invalidemail@gmail.com\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1175000000
+              "duration": 1180000000
             },
             "line": 30,
             "match": {
@@ -514,7 +514,7 @@
             "name": "User fill \"password\" \"tokopedia789\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1630000000
+              "duration": 1813000000
             },
             "line": 31,
             "match": {
@@ -527,7 +527,7 @@
             "name": "User click \"login\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1277000000
+              "duration": 1284000000
             },
             "line": 32,
             "match": {
@@ -540,7 +540,7 @@
             "name": "user see \"warning message\" at login page",
             "result": {
               "status": "passed",
-              "duration": 49000000
+              "duration": 58000000
             },
             "line": 33,
             "match": {
@@ -553,7 +553,7 @@
             "name": "Hook",
             "result": {
               "status": "passed",
-              "duration": 9000000
+              "duration": 10000000
             },
             "line": "",
             "match": {
@@ -611,7 +611,7 @@
             "name": "Hook",
             "result": {
               "status": "passed",
-              "duration": 11000000
+              "duration": 9000000
             },
             "line": "",
             "match": {
@@ -624,7 +624,7 @@
             "name": "user at login page",
             "result": {
               "status": "passed",
-              "duration": 51000000
+              "duration": 50000000
             },
             "line": 37,
             "match": {
@@ -637,7 +637,7 @@
             "name": "User fill \"email\" \"rifki.nurgraha171@gmail.com\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1165000000
+              "duration": 1181000000
             },
             "line": 38,
             "match": {
@@ -650,7 +650,7 @@
             "name": "User fill \"password\" \"invalidPassword\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1962000000
+              "duration": 1900000000
             },
             "line": 39,
             "match": {
@@ -663,7 +663,7 @@
             "name": "User click \"login\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1323000000
+              "duration": 1293000000
             },
             "line": 40,
             "match": {
@@ -676,7 +676,7 @@
             "name": "user see \"warning message\" at login page",
             "result": {
               "status": "passed",
-              "duration": 51000000
+              "duration": 74000000
             },
             "line": 41,
             "match": {
@@ -689,7 +689,7 @@
             "name": "Hook",
             "result": {
               "status": "passed",
-              "duration": 10000000
+              "duration": 13000000
             },
             "line": "",
             "match": {
@@ -740,7 +740,7 @@
             "name": "Hook",
             "result": {
               "status": "passed",
-              "duration": 10000000
+              "duration": 11000000
             },
             "line": "",
             "match": {
@@ -753,7 +753,7 @@
             "name": "user at login page",
             "result": {
               "status": "passed",
-              "duration": 48000000
+              "duration": 50000000
             },
             "line": 45,
             "match": {
@@ -766,7 +766,7 @@
             "name": "User fill \"email\" \"rifki.nurgraha171@gmail.com\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1178000000
+              "duration": 1184000000
             },
             "line": 46,
             "match": {
@@ -779,7 +779,7 @@
             "name": "User fill \"password\" \"tokopedia789\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1883000000
+              "duration": 1852000000
             },
             "line": 47,
             "match": {
@@ -792,7 +792,7 @@
             "name": "User click \"login\" at login page",
             "result": {
               "status": "passed",
-              "duration": 1658000000
+              "duration": 1654000000
             },
             "line": 48,
             "match": {
@@ -805,7 +805,7 @@
             "name": "user successfully login",
             "result": {
               "status": "passed",
-              "duration": 67000000
+              "duration": 57000000
             },
             "line": 49,
             "match": {
@@ -818,7 +818,7 @@
             "name": "Hook",
             "result": {
               "status": "passed",
-              "duration": 9000000
+              "duration": 10000000
             },
             "line": "",
             "match": {
