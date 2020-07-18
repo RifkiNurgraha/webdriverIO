@@ -59,7 +59,7 @@ $ npm run test-stag-all-browser
 $ npm run test-android
 ```
 ###  API:
-* Run api
+* Run Api
 ```
 $ npm run test-api
 ```
