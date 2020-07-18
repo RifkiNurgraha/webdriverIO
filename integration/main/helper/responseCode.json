@@ -1,0 +1,12 @@
+{
+    "successOk": 200,
+    "successCreated": 201,
+    "successAccepted": 202,
+    "successNoContent": 204,
+    "failedInvalidRequest": 400,
+    "failedNoAuthorization": 401,
+    "failedForbidden": 403,
+    "failedNoFound": 404,
+    "failedUnprocessableRequest": 422,
+    "failedServerError": 500
+}
