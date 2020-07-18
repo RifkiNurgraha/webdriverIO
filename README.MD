@@ -10,24 +10,56 @@ This is repository use Webdriver IO that can be used for Desktop, Lite, Android,
 $ npm install
 ```
 # Run test:
-### Production Env:
--Run Desktop Chrome
-$ npm run test-desktop-chrome
-
--Run Desktop Firefox
-$ npm run test-desktop-firefox
-
--Run Desktop Safari
-$ npm run test-desktop-safari
-
--Run Desktop Opera
-$ npm run test-desktop-opera
-
--Run Desktop Parallel All Browser
-$ npm run test-all-browser
-
--Run Android
+###  Desktop/Web:
+####  Production Env:
+* Run Desktop Chrome
+```
+$ npm run test-prod-desktop-chrome
+```
+* Run Desktop Firefox
+```
+$ npm run test-prod-desktop-firefox
+```
+* Run Desktop Safari
+```
+$ npm run test-prod-desktop-safari
+```
+* Run Desktop Opera
+```
+$ npm run test-prod-desktop-opera
+```
+* Run Desktop Parallel All Browser
+```
+$ npm run test-prod-all-browser
+```
+#### Staging Env:
+* Run Desktop Chrome
+```
+$ npm run test-stag-desktop-chrome
+```
+* Run Desktop Firefox
+```
+$ npm run test-stag-desktop-firefox
+```
+* Run Desktop Safari
+```
+$ npm run test-stag-desktop-safari
+```
+* Run Desktop Opera
+```
+$ npm run test-stag-desktop-opera
+```
+* Run Desktop Parallel All Browser
+```
+$ npm run test-stag-all-browser
+```
+###  Mobile:
+* Run Android
+```
 $ npm run test-android
-
--Run Allure Report Dashboard
+```
+###  Dashboard:
+* Run Allure Report Dashboard
+```
 $ npm run allure-report
+```
