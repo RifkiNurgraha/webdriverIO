@@ -1,5 +1,5 @@
 # Description
-This is repository use Webdriver IO that can be used for Desktop, Lite, Android, Ios, and API in one framework. Use Page Object Model, BDD Cucumber, report mochawesome for API and cucumber report for UI, Allure Report as a Dashboard.
+This is repository use Webdriver IO and mocha that can be used for Desktop, Lite, Android, Ios, and API in one framework. Use Page Object Model, BDD Cucumber, report mochawesome for API and cucumber report for UI, Allure Report as a Dashboard.
 
 # How do I get set up?
 1. Assume that you have node installed and for mobile android or ios installed.

@@ -1,7 +1,7 @@
 {
 	"name": "testbukalapak",
 	"version": "1.0.0",
-	"description": "Automation use WebdriverIO for All Platform and Mocha for API",
+	"description": "Automation use WebdriverIO and mocha for All Platform and Mocha for API",
 	"main": "integration/main/config",
 	"scripts": {
 		"cucumber-report": "node integration/main/helper/report_generator.js",
