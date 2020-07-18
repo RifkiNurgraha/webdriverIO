@@ -1,4 +1,4 @@
-Feature: Login
+Feature: ANDROID - Login
 
     @test @desktop @critical @ID-02 @neg
     Scenario: User Failed Login without @ Email

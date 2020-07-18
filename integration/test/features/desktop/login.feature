@@ -1,4 +1,4 @@
-Feature: Login
+Feature: DESKTOP - Login
 
     @test @desktop @critical @ID-01
     Scenario: User Successfully Login with Email
